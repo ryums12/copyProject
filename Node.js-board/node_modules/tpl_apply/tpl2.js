@@ -1,1 +1,0 @@
-{{#list people}}{{firstName}} {{lastName}}{{/list}}
