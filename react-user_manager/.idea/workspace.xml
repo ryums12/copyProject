@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee67527f-04d5-4f9e-aa9e-6dd61e24eeb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eDG8KsWjBifA9ionG7rpWvNydz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nbfak\Desktop\포트폴리오\Git\copyProject\react-user_manager" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee67527f-04d5-4f9e-aa9e-6dd61e24eeb8" name="Default Changelist" comment="" />
+      <created>1593848589598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593848589598</updated>
+      <workItem from="1593848592586" duration="414000" />
+      <workItem from="1593861491845" duration="442000" />
+      <workItem from="1594041872290" duration="3973000" />
+      <workItem from="1594302941758" duration="1360000" />
+      <workItem from="1594381883877" duration="427000" />
+      <workItem from="1594382643133" duration="1435000" />
+      <workItem from="1594472564077" duration="3551000" />
+      <workItem from="1594531329536" duration="946000" />
+      <workItem from="1594561893026" duration="491000" />
+      <workItem from="1595853254342" duration="1019000" />
+      <workItem from="1595942866327" duration="1388000" />
+      <workItem from="1595944265650" duration="494000" />
+      <workItem from="1596024452210" duration="3462000" />
+      <workItem from="1596113741181" duration="3977000" />
+      <workItem from="1597322551598" duration="2362000" />
+      <workItem from="1597496535484" duration="4257000" />
+      <workItem from="1597536967794" duration="2662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594044943041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594044943041" />
+    <state x="314" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596115591135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="314" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596115591135" />
+    <state x="339" y="24" key="#npm_start" timestamp="1596025161862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="339" y="24" key="#npm_start/0.0.1280.680@0.0.1280.680" timestamp="1596025161862" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1595853779519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1595853779519" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1594382314943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594382314943" />
+    <state width="1259" height="155" key="GridCell.Tab.0.bottom" timestamp="1594382317012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594382317012" />
+    <state width="1259" height="155" key="GridCell.Tab.0.center" timestamp="1594382317012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594382317012" />
+    <state width="1259" height="155" key="GridCell.Tab.0.left" timestamp="1594382317012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594382317012" />
+    <state width="1259" height="155" key="GridCell.Tab.0.right" timestamp="1594382317012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594382317012" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1593848612388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593848612388" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1595853779519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1595853779519" />
+    <state x="531" y="0" width="585" height="680" key="find.popup" timestamp="1597498058012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="531" y="0" width="585" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597498058012" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596114757348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596114757348" />
+  </component>
+</project>
